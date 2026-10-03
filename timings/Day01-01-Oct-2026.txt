@@ -1,0 +1,11 @@
+Today's Task
+3 hours - Online live session on Youtube
+2 hours - Creating AWS account by watching Sir's Video
+2 hours - Revising today's notes and completing homework with the help of Chatgpt
+1 hour - Creating Repo and conneccting Git with the help of Sir's second video on Git
+
+
+
+Tomorrow's Task
+Learn basics of Linux commands
+Researching more on Chatgpt regarding Linux commnads and various other terms related to DevOps
