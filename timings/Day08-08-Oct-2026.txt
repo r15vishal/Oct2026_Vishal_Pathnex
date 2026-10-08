@@ -1,0 +1,4 @@
+4 hours : Watched Youtube Video
+2 hours : Practiced on AWS and asked Chatgpt about some doubts
+15 minute : Coding Practice (Github)
+1 hour : Revision of old Linux commands
