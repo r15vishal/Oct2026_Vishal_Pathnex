@@ -1,0 +1,4 @@
+3 hours: Watched Kubernetes video
+2 hours: Coding practice in ec2
+1 hour : Old concept revision]
+30 minute: Git push

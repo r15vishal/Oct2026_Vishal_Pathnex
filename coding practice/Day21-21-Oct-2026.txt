@@ -1,0 +1,34 @@
+# Day 21 — SPEED TYPING (LEVEL 2)
+
+You must rewrite all FOUR from scratch:
+
+1. Ansible:
+   - Install nginx
+   - Start + enable service
+
+2. Terraform:
+   - Create EC2 (choose any Pathnex-approved type)
+   - Tag it with:
+       Owner: PathnexStudent
+
+3. Kubernetes:
+   - Deployment with 3 replicas
+   - Image: nginx
+
+4. Shell:
+   - Print date, uptime, disk usage
+
+  TIME LIMIT: 15 minutes
+
+# Multi-Environment Pipeline
+
+##   Jenkins Pipeline — Deploy to Multiple Environments
+You will learn how to **define multiple environment deployments in one pipeline**.
+
+pipeline {
+    agent any
+    environment {
+        INSTITUTE_NAME = "Pathnex"
+    }
+    stages {
+
